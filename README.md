@@ -1,12 +1,12 @@
 # Wave-Based Stochastic Solvers
-
-<div align="center">
-  <img src="docs/images/placeholder_wave_1.svg" alt="Left placeholder" width="48%"/>
-  <img src="docs/images/placeholder_wave_2.svg" alt="Right placeholder" width="48%"/>
-</div>
-
 ## Overview
 This repository consolidates the MATLAB implementations that accompany the thesis *Scalable Domain Decomposition Methods for Nonlinear and Time-Dependent Stochastic Systems*. The projects cover intrusive and non-intrusive stochastic finite element solvers, domain decomposition strategies, Monte Carlo studies, and reference data for both one-dimensional and two-dimensional acoustic wave problems.
+
+
+<img width="982" height="792" alt="wave" src="https://github.com/user-attachments/assets/699a2e1f-be21-4a8c-839b-f75e7822cea4" />
+
+<img width="1117" height="764" alt="wave_compare" src="https://github.com/user-attachments/assets/c2e6ab68-4f5f-4d08-ba4c-aaced475b3c7" />
+
 
 The codebase has been reorganized to keep artifacts in a predictable layout:
 
