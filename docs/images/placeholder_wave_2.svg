@@ -1,0 +1,5 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#fff8f0" stroke="#c0392b" stroke-width="4"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Helvetica, Arial, sans-serif" fill="#c0392b">Insert Right Figure</text>
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Helvetica, Arial, sans-serif" fill="#c0392b">(e.g., convergence plot)</text>
+</svg>

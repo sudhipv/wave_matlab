@@ -1,0 +1,5 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#f0f4ff" stroke="#0a3d62" stroke-width="4"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Helvetica, Arial, sans-serif" fill="#0a3d62">Insert Left Figure</text>
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-size="18" font-family="Helvetica, Arial, sans-serif" fill="#0a3d62">(e.g., solver schematic)</text>
+</svg>
